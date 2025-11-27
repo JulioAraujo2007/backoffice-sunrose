@@ -31,8 +31,8 @@ Em seguida acesse `http://localhost:3000`.
 
 Qualquer usuário cadastrado em `lib/data.ts` pode ser utilizado. Exemplo:
 
-- **E-mail**: `ana.costa@sunrose.com`
-- **Senha**: `sunrose123`
+- **E-mail**: `teste@sunrose.com`
+- **Senha**: `teste`
 
 ## Estrutura de pastas
 
